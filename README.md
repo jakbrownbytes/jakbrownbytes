@@ -8,14 +8,14 @@
 
 ### 💼 Professional Development  
 
-   - 💫 Currently interning with OSPO UC Santa Cruz Contributor Catalyst
-   - 🌐 Self Study on OSINT (Open Source Intelligence) and Digital Targeting
+   -  Currently interning with OSPO UC Santa Cruz Contributor Catalyst
+   -  Self Study on OSINT (Open Source Intelligence) and Digital Targeting
 
 -- 
 
 ### 🔍 Facts About Me  
 
-   - 📚 Tutor and Mentor for Academic Improvement
-   - 🪞 Member of Alpha Kappa Alpha Sorority Inc.
-   - 🎯 Dedicated to Service and Community Involvement
-   - 💪 Commitment to Strong Leadership and Impact
+   -  Tutor and Mentor for Academic Improvement
+   -  Member of Alpha Kappa Alpha Sorority Inc.
+   -  Dedicated to Service and Community Involvement
+   -  Commitment to Strong Leadership and Impact
