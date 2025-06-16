@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello!! I am Jakiya Brown!! ✨
 
-<!--
-**jakbrownbytes/jakbrownbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Dozoretz National Institute for Mathematics and Applied Sciences Scholar  
+💻 Computer Science Major | Cybersecurity Concentration  
+🛡️ Aspiring Cyber Intelligence Professional  
 
-Here are some ideas to get you started:
+--  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Development  
+
+   - 💫 Currently interning with OSPO UC Santa Cruz Contributor Catalyst
+   - 🌐 Self Study on OSINT (Open Source Intelligence) and Digital Targeting
+
+-- 
+
+### 🔍 Facts About Me  
+
+   - 📚 Tutor and Mentor for Academic Improvement
+   - 🪞 Member of Alpha Kappa Alpha Sorority Inc.
+   - 🎯 Dedicated to Service and Community Involvement
+   - 💪 Commitment to Strong Leadership and Impact
