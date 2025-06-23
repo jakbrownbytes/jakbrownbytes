@@ -1,21 +1,21 @@
 ## Hello!! I am Jakiya Brown!! ✨
 
-🎓 Dozoretz National Institute for Mathematics and Applied Sciences Scholar  
-💻 Computer Science Major | Cybersecurity Concentration  
-🛡️ Aspiring Cyber Intelligence Professional  
+🎓 I am a Dozoretz National Institute for Mathematics and Applied Sciences Scholar through the DNIMAS program at NSU.
+💻 I major in Computer Science with a Cybersecurity Concentration.
+🛡️ I have interest in intelligence for national security, so I aspire to pursue cyber intelligence.
 
 --  
 
 ### 💼 Professional Development  
 
-   -  Currently interning with OSPO UC Santa Cruz Contributor Catalyst
-   -  Self Study on OSINT (Open Source Intelligence) and Digital Targeting
+   -  Currently interning with OSPO UC Santa Cruz Contributor Catalyst.
+   -  Beginning self study on OSINT (Open Source Intelligence) and Digital Targeting.
 
 -- 
 
 ### 🔍 Facts About Me  
 
-   -  Tutor and Mentor for Academic Improvement
-   -  Member of Alpha Kappa Alpha Sorority Inc.
-   -  Dedicated to Service and Community Involvement
-   -  Commitment to Strong Leadership and Impact
+   -  Tutor and mentor for intro computer science and mathematic courses for academic improvement.
+   -  Member of Alpha Kappa Alpha Sorority, Inc (Delta Epsilon Chapter).
+   -  Dedicated to volunteering and community involvement.
+   -  Commitment to strong leadership.
