@@ -5,14 +5,12 @@
 🛡️ I have interest in intelligence for national security, so I aspire to pursue cyber intelligence.  
 
 --  
-
 ### 💼 Professional Development  
 
    -  Currently interning with OSPO UC Santa Cruz Contributor Catalyst.
    -  Beginning self study on OSINT (Open Source Intelligence) and Digital Targeting.
 
 -- 
-
 ### 🔍 Facts About Me  
 
    -  Tutor and mentor for intro computer science and mathematic courses for academic improvement.
