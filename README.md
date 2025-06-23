@@ -1,8 +1,8 @@
 ## Hello!! I am Jakiya Brown!! ✨
 
-🎓 I am a Dozoretz National Institute for Mathematics and Applied Sciences Scholar through the DNIMAS program at NSU.
-💻 I major in Computer Science with a Cybersecurity Concentration.
-🛡️ I have interest in intelligence for national security, so I aspire to pursue cyber intelligence.
+🎓 I am a Dozoretz National Institute for Mathematics and Applied Sciences Scholar through the DNIMAS program at NSU.  
+💻 I major in Computer Science with a Cybersecurity Concentration.  
+🛡️ I have interest in intelligence for national security, so I aspire to pursue cyber intelligence.  
 
 --  
 
