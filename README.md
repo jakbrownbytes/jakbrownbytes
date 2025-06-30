@@ -12,6 +12,6 @@
 ### 🔍 Facts About Me  
 
    -  Tutor and mentor for intro computer science and mathematic courses for academic improvement.
-   -  Member of Alpha Kappa Alpha Sorority, Inc (Delta Epsilon Chapter).
+   -  Member of Alpha Kappa Alpha Sorority, Inc.
    -  Dedicated to volunteering and community involvement.
    -  Commitment to strong leadership.
