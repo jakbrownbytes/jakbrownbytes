@@ -7,7 +7,8 @@
 ### 💼 Professional Development  
 
    -  Currently interning with OSPO UC Santa Cruz Contributor Catalyst.
-   -  Beginning self study on OSINT (Open Source Intelligence) and Digital Targeting.
+   -  Beginning self study on OSINT (Open Source Intelligence).
+   -  Interested in open source and learning more about it.
 
 ### 🔍 Facts About Me  
 
